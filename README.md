@@ -2,7 +2,9 @@
 
 A browser-based analytics dashboard for processing and analyzing internal hygiene audit reports. Built as a single HTML file — no installation, no backend, no dependencies except a modern browser.
 
-**[→ Live Demo](https://your-username.github.io/mades-audit-system)**
+**[→ Live Demo](https://bewyz.github.io/mades-audit-system)**
+
+
 
 ![Dashboard Preview](preview.png)
 
